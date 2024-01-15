@@ -1,0 +1,1 @@
+printf("%d %c %s",s1.mynum,s1.myletter,s1.string);
